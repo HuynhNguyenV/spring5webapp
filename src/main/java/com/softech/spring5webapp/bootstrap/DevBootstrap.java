@@ -1,4 +1,4 @@
-package com.softech.spring5webapp.DevBootstrap;
+package com.softech.spring5webapp.bootstrap;
 
 import com.softech.spring5webapp.model.Author;
 import com.softech.spring5webapp.model.Book;
